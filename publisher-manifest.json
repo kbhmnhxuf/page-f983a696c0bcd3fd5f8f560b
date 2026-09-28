@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1ce65400ac882220dfabbdff",
+  "owner": "kbhmnhxuf",
+  "repo": "page-f983a696c0bcd3fd5f8f560b",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f983a696c0bcd3fd5f8f560b",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "af1b914d25964ccc624588e334aba30cb04ef151931e007a721c744a0f4be3c8",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云 VPN 提供安全快速的网络加速服务，支持多设备在线，解锁流媒体。立即下载官方客户端，畅享极速上网体验。",
+          "AI_DESCRIPTION": "龙猫云 VPN 提供安全快速的网络加速服务，支持多设备在线，解锁流媒体。立即下载官方客户端，畅享极速上网体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --gray: #f5f5f5;\n            --purple: #7e22ce;\n        }\n        body {\n            font-family: 'Segoe UI', system-ui, sans-serif;\n            margin: 0;\n            padding: 0;\n            background: var(--gray);\n            color: #333;\n            line-height: 1.6;\n        }\n        nav {\n            background: white;\n            padding: 1rem 5%;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            box-shadow: 0 2px 5px rgba(0,0,0,0.1);\n        }\n        .logo {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: var(--purple);\n        }\n        .nav-links a {\n            margin-left: 2rem;\n            color: #333;\n            text-decoration: none;\n        }\n        header {\n            background: linear-gradient(135deg, #f5f5f5, white);\n            padding: 4rem 5% 3rem;\n            text-align: center;\n            position: relative;\n        }\n        .hero-title {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n            color: #1f2937;\n        }\n        .hero-subtitle {\n            font-size: 1.5rem;\n            margin-bottom: 2rem;\n            color: #6b7280;\n        }\n        .cta-button {\n            background: var(--purple);\n            color: white;\n            padding: 1rem 2rem;\n            border: none;\n            border-radius: 50px;\n            font-size: 1.1rem;\n            cursor: pointer;\n            text-decoration: none;\n            display: inline-block;\n        }\n        .cta-button:hover {\n            background: #6b21a8;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 5%;\n        }\n        section {\n            padding: 4rem 0;\n        }\n        h2 {\n            font-size: 2rem;\n            margin-bottom: 1.5rem;\n            color: #1f2937;\n        }\n        .intro {\n            text-align: center;\n            max-width: 800px;\n            margin: 0 auto;\n        }\n        .config-process {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 2rem;\n        }\n        .step {\n            background: white;\n            padding: 2rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n        }\n        .step-number {\n            background: var(--purple);\n            color: white;\n            width: 50px;\n            height: 50px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            margin-bottom: 1rem;\n        }\n        .plans-section {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 2rem;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            padding: 2rem;\n            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-5px);\n        }\n        .plan-card h3 {\n            font-size: 1.5rem;\n            margin-bottom: 0.5rem;\n        }\n        .plan-price {\n            color: var(--purple);\n            font-size: 1.8rem;\n            font-weight: bold;\n            margin: 1rem 0;\n        }\n        .plan-features {\n            list-style: none;\n            padding: 0;\n        }\n        .plan-features li {\n            padding: 0.5rem 0;\n            border-bottom: 1px solid #eee;\n        }\n        .plan-features li:before {\n            content: \"✓ \";\n            color: var(--purple);\n        }\n        .faq {\n            display: flex;\n            flex-direction: column;\n            gap: 1rem;\n        }\n        details {\n            background: white;\n            border-radius: 8px;\n            overflow: hidden;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 1.5rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        summary:after {\n            content: \"▼\";\n            margin-left: auto;\n            transition: transform 0.3s;\n        }\n        details[open] summary:after {\n            transform: rotate(180deg);\n        }\n        footer {\n            background: #1f2937;\n            color: white;\n            text-align: center;\n            padding: 2rem;\n        }\n        .footer-links a {\n            color: #ddd;\n            margin: 0 1rem;\n        }\n    </style>\n\n\n    <nav>\n        <div class=\"logo\">龙猫云</div>\n        <div class=\"nav-links\">\n            <a href=\"#plans\">套餐</a>\n            <a href=\"#faq\">FAQ</a>\n            <a href=\"#download\">下载</a>\n        </div>\n    </nav>\n    <header>\n        <h1 class=\"hero-title\">龙猫云</h1>\n        <p class=\"hero-subtitle\">安全快速的VPN加速器，畅享全球网络</p>\n        <a href=\"#download\" class=\"cta-button\">立即下载客户端</a>\n    </header>\n    <main>\n        <section class=\"intro\">\n            <h2>品牌简介</h2>\n            <p>龙猫云VPN是一款专注于提供高速稳定网络加速服务的品牌。我们致力于为用户提供安全、隐私保护的网络加速解决方案。通过先进的节点技术，助您畅享流畅上网体验。</p>\n        </section>\n        <section class=\"config-process\">\n            <h2>配置流程</h2>\n            <div class=\"config-process\">\n                <div class=\"step\">\n                    <div class=\"step-number\">1</div>\n                    <h3>选择套餐</h3>\n                    <p>根据您的需求选择基础版、旗舰版或团队版套餐。</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">2</div>\n                    <h3>完成支付</h3>\n                    <p>支付后获取您的专属账号信息。</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">3</div>\n                    <h3>下载客户端</h3>\n                    <p>访问官网下载适用于Windows、Mac、Android、iOS的客户端。</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">4</div>\n                    <h3>安装配置</h3>\n                    <p>安装客户端，输入账号信息，连接到任意节点。</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-number\">5</div>\n                    <h3>享受加速</h3>\n                    <p>完成连接，即可使用加速后的网络服务。</p>\n                </div>\n            </div>\n        </section>\n        <section id=\"plans\">\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>什么是龙猫云VPN？</summary>\n                    <div>龙猫云VPN是一款提供安全快速网络加速服务的品牌，支持多种设备，解锁流媒体内容。</div>\n                </details>\n                <details>\n                    <summary>如何选择适合我的套餐？</summary>\n                    <div>根据流量需求和设备数量选择基础版、旗舰版或团队版。旗舰版适合需要流媒体解锁的用户。</div>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <div>支持Windows、Mac、Android、iOS等多种设备，同时在线数量根据套餐而定。</div>\n                </details>\n                <details>\n                    <summary>如何下载客户端？</summary>\n                    <div>访问我们的官网下载适用于不同操作系统的客户端软件。</div>\n                </details>\n                <details>\n                    <summary>如何配置VPN？</summary>\n                    <div>按照我们的配置流程步骤进行，选择套餐支付后下载安装客户端，输入账号信息即可连接节点。</div>\n                </details>\n            </div>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 龙猫云 VPN. 保留所有权利。</p>\n        <div class=\"footer-links\">\n            <a href=\"#faq\">FAQ</a>\n            <a href=\"#plans\">套餐</a>\n        </div>\n    </footer>\n\n",
+          "hash": "b2189213a84f28026b44bf5341d1b1e53108ac7ecda335ea3643568f29e7d95f",
+          "seo": {
+            "title": "龙猫云 VPN 官网 | 高速节点加速器 客户端下载",
+            "keywords": "龙猫云VPN, VPN加速器, 机场, 客户端下载, 龙猫云套餐",
+            "description": "龙猫云 VPN 提供安全快速的网络加速服务，支持多设备在线，解锁流媒体。立即下载官方客户端，畅享极速上网体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "34yjy6.cn",
+    "host": "a.34yjy6.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "34yjy6.cn",
+      "url": "https://34yjy6.cn/",
+      "label": "白嫖(CCCAT)",
+      "apex": "34yjy6.cn",
+      "kind": null,
+      "identity": "yxqcax/page-a2e7d6732c288ffbbc1cc852"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "67f950ca6ae337f4e48a96c3ab13a733a7ba172a01896a893e605bd6fe8d598f",
+    "sitemap.xml": "5ef94854fa80885a351b2d3445a35776d85cdcdd3ee70de3e3922f6bee77bcd7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cb46df8572a1ccfbbe2bd22081d4ef67edfe583da0c12b71831ea4bd1ea40c7c",
+    "robots.txt": "ecf3b0d798267889442edd6b70082387d83cfa69d60f85639ccb178943088761",
+    "6def087ef3c46522c53d0c936b311a13.txt": "0fa471f0bec3b17dfa921f5d81e453ca4c860770514d8a7007200cbb6b7b21a7"
+  },
+  "revision": "cd7ca051603dac93244da89ac44e0c279a3a807538b0b453253dd3e43a45a5ab"
+}
